@@ -8,7 +8,7 @@ My product code is private, so this page links to what is live instead.
 
 **AI-powered healthcare platform** · Lead Software Engineer · 2021 to present
 
-Sole engineer on a patent-pending platform that runs on iOS, web, and desktop in a HIPAA-regulated environment, and the named inventor on its non-provisional patent filing. Python backend, REST APIs, and React Native clients, with LLM orchestration on Azure OpenAI Service and HL7 FHIR integration with electronic health record systems. Deployed on Azure with Docker and CI/CD.
+Founding engineer on a patent-pending platform that runs on iOS, web, and desktop in a HIPAA-regulated environment, and the named inventor on its non-provisional patent filing. Python backend, REST APIs, and React Native clients, with LLM orchestration on Azure OpenAI Service and HL7 FHIR integration with electronic health record systems. Deployed on Azure with Docker and CI/CD.
 
 ## Products I built and published
 
