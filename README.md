@@ -32,4 +32,4 @@ Both are published through my company, [Empowered Intelligence, LLC](https://emp
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/isaiah-marshall96) · [empoweredintelligencellc.com](https://empoweredintelligencellc.com)
+[LinkedIn](https://www.linkedin.com/in/isaiahmarshalltech) · [empoweredintelligencellc.com](https://empoweredintelligencellc.com)
